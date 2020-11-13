@@ -1,11 +1,11 @@
+import TinderCard from "./TinderCards";
 import Header from "./Header";
 
 function App() {
   return (
     <div className="App">
       <Header />
-      {/* Header */}
-      {/* TinderCards */}
+      <TinderCard />
       {/* SwipeButtons */}
     </div>
   );
